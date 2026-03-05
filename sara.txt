@@ -1,10 +1,9 @@
-<<<<<<< HEAD
+
 hellooooo world
 first line 
 second line
 adding 2nd line in my file
-=======
 hellooooo world 
 my name is sara
-studying in zeal polytechnic
->>>>>>> 759bb4a80575a8b9c5a1c01b00eee4c27faaec6e
+studying in zeal polytechnic 
+
